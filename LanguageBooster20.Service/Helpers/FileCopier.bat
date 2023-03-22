@@ -1,0 +1,1 @@
+copy "D:\Musics\fitgirl.mp3" "..\..\..\..\LanguageBooster20.Data\Contents\Podcasts\fitgirl.mp3"
